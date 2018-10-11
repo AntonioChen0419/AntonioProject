@@ -1,0 +1,6 @@
+platform:ios,'9.0'
+target 'Swift_Rac_test1'do
+
+use_frameworks!
+pod 'ReactiveCocoa', '~> 7.0'
+end
